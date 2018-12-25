@@ -4,12 +4,12 @@ Girlfriends are difficult to read, but it gets easier with this custom built Mac
 ## Features
 - Simple to understand neural network with two hidden layers with all the nodes you need
 - Output is a simple value between 0 and 1, very easy to interpret :satisfied:
-- Input nodes are specified by you (the user!), put in as many modalities as you can possibly find for your situation
+- Input nodes are specified by you (the user!), put in as many modalities as you can possibly find for your situation for more accurate results!
 
 ## Dependencies
-- Pytorch
-- Python 3
-- A girlfriend
+- Pytorch :fire:
+- Python 3 :snake:
+- A girlfriend :revolving_hearts:
 
 ## Sample Usage
 ```
@@ -18,5 +18,5 @@ model = is_she_mad(5)
 ```
 
 ## Disclaimer
-- Training data and trained model not included
-- Use at your own risk 
+- Training and insurance not included (although your training time might be better if use LSUV initialiation for your personalized network: `https://github.com/ducha-aiki/LSUV-pytorch`)
+- Use at your own risk :punch:
